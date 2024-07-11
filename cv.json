@@ -264,6 +264,19 @@
       ],
       "url": "https://pruebastecnicas.com"
     }
+    ,
+    {
+      "name": "eDrivers",
+      "isActive": true,
+      "description": "Plataforma de gestión de uso de herramientas de protección , integrada a Aplicativo por QR",
+      "highlights": [
+        "Flutter",
+        "Mysql",
+        "QR"
+      ],
+      "url": "http://159.223.161.160:3020/login"
+    }
+   
 
   ]
 }

@@ -1,89 +1,74 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "name": "Bryan Hector Rafael Andia",
+    "label": "Full Stack Developer con más de 3 años de experiencia & Instructor(Udemy) de Contenido de Programación",
+    "image": "/194377_n.jpg",
+    "email": "player.b.1996@gmail.com",
+    "phone": "+51 926151507",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "+3 años de experiencia como Desarrollador Web y Mobil. Actualmente soy Analista Programador e Instructor de Programación. Vivo en Lima, Perú. He trabajado en diferentes entornos, desde empresas de Desarrollo de Software hasta Analisis de Datos.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "city": "Lima",
+      "countryCode": "PE",
+      "region": "Perú"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "url": "https://linkedin.com/in/bryanraf96"
       },
       {
         "network": "GitHub",
         "username": "midudev",
-        "url": "https://github.com/midudev"
+        "url": "https://github.com/Playerb96"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Infomática",
+      "position": "Analista programador y Frontend Developer",
+      "url": "https://www.infomatica.pe",
+      "startDate": "2024-04-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Realice Desarrollo de Software con React y Php, así mismo analisis de requerimientos para sistemas basados en Visual Basic y .Net .",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Sys&net del Perú",
+      "position": "FullStack Developer",
+      "url": "https://pe.linkedin.com/company/sys-net-del-perú?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+      "startDate": "2021-06-01",
+      "endDate": "2024-04-01",
+      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos sistemas entre tecnologías de Flutter, Go y Django. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
+      "name": "Instructor Udemy",
       "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "url":"https://www.udemy.com/user/bryan-rafael-4/",
+      "startDate": "2021-03-01",
+      "endDate": null,
+      "summary": "Instructor de Cursos de Programación en tecnologías de Angular y Flutter",
       "highlights": [
         "Started the company"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
+    "institution": "Universidad Nacional Federico Villareal",
+    "url": "https://www.unfv.edu.pe",
     "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "studyType": "Bachiller",
+    "startDate": "2016-01-01",
+    "endDate": "2021-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -171,19 +156,34 @@
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
+    }, 
     {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Angular17",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+   
+    {
+      "name": "Go",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "python"
       ]
     }
   ],
@@ -210,66 +210,60 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "PrecisoGPS",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Plataforma de gestión de minutos y paradas para Buses en el País de Ecuador",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Tracking GPS",
+        "Flutter",
+        "Mongodb"
       ],
-      "url": "https://mars.codes"
+      "url": "http://159.203.177.210:4020/#/login"
     },
     {
-      "name": "AdventJS",
+      "name": "MonitorS4",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Web de Monitoreo de Evidencias en Fotos y Videos , de Alertas de conductores , para flotas de Vehiculos en Perú y Ecuador",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "100 Usuarios",
+        "Go",
+        "TypeScript"
       ],
-      "url": "https://adventjs.dev"
+      "url": "http://67.205.164.216:3040/#/login"
     },
     {
-      "name": "Codember",
+      "name": "OYT",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Landing Page para empresa de Transporte, flotas vehiculares.",
       "highlights": [
         "+2000 usuarios activos",
         "Retos para cualquier lenguaje"
       ],
-      "url": "https://codember.dev"
+      "url": "http://www.oyt.com.pe"
     },
     {
-      "name": "codi.link",
+      "name": "Cheethakademy",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Academia de cursos de Programación para desarrolladores y freelances.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Freelance",
+        "Desarrollado por la comunidad",
+        "AngularV17"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://cheethakademy-front-angular-v17.vercel.app",
+      "github": "https://github.com/PlayerB96/cheethakademy-front-angular-v17"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Petrothor WEB",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Web de gestión de Combustible para empresa abastecedora de Combustible",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "VueJS",
+        "Mysql",
+        "Django"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://pruebastecnicas.com"
     }
+
   ]
 }

@@ -29,11 +29,22 @@
   },
   "work": [
     {
+      "name": "La número 1",
+      "position": "Analista de Desarrollo",
+      "url": "https://www.infomatica.pe",
+      "startDate": "2024-04-04",
+      "endDate": null,
+      "summary": "Sistemas ERP , basados en laravel 10 ",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
       "name": "Infomática",
       "position": "Analista programador y Frontend Developer",
       "url": "https://www.infomatica.pe",
       "startDate": "2024-04-01",
-      "endDate": null,
+      "endDate": "2024-04-04",
       "summary": "Realice Desarrollo de Software con React y Php, así mismo analisis de requerimientos para sistemas basados en Visual Basic y .Net .",
       "highlights": [
         "Started the company"
@@ -94,6 +105,13 @@
     "summary": "Description…"
   }],
   "skills": [
+    {
+      "name": "Flutter",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "python"
+      ]
+    },
     {
       "name": "HTML",
       "level": "Master",
@@ -227,7 +245,7 @@
       "highlights": [
         "100 Usuarios",
         "Go",
-        "TypeScript"
+        "Flutter"
       ],
       "url": "http://67.205.164.216:3040/#/login"
     },
